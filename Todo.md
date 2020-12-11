@@ -1,18 +1,20 @@
 # Todo
-### Tues:
-- [ ] 1 - manipulate a linked list
+### Tues: Linked Lists
+- [ ] 1 - set up a linked list
 
-### Wed: 
+### Wed: Stacks & Queues
 - [ ] 2 - implement a queue using a linked list
 - [ ] 3 - implement a stack using a linked list
 - [ ] 4 - implement a stack using a dynamic array
 
-### Thu:
+### Thu: Search & Recursion
 - [ ] 5 - write a linear search algorithm
 - [ ] 6 - use a recursion to solve a problem
 - [ ] 7 - trace and identify the output of a recursive function call
 - [ ] 8 - write a binary search algorithm
 
+### Mon: Binary Search Trees
+- [ ] 10 - construct a binary search tree
 
 ## 1. Linked Lists
 
